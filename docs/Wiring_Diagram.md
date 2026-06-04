@@ -8,4 +8,4 @@ Common Ground
 
 
 
-![Circuit Diagram](docs/circuit_image.png)
+![Circuit Diagram](circuit_image.png)
