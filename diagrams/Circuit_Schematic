@@ -1,0 +1,20 @@
+ESP32 GPIO27 → IN1
+ESP32 GPIO26 → IN2
+ESP32 GPIO18 → IN3
+ESP32 GPIO19 → IN4
+
+ESP32 GPIO23 → TRIG
+
+HC-SR04 ECHO
+      ↓
+     1kΩ
+      ↓
+GPIO32
+      ↓
+     2kΩ
+      ↓
+     GND
+
+GPIO25 → Active Buzzer
+
+ESP32 GND ↔ L298N GND ↔ Sensor GND ↔ Buzzer GND
